@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+django-filter
+djoser
+psycopg2-binary
+python-dotenv
+django-import-export
+tablib[xlsx]
